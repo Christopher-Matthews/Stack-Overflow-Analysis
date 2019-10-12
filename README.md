@@ -25,5 +25,5 @@ The high level results can be found in a blog post I wrote at (insert link when 
 
 Thank you to kaggle for hosting the StackOverflow data and stack overflow for providing incredible service. 
 Data used in the project can be found at
-[inline-style link with title](https://www.kaggle.com/stackoverflow/so-survey-2017/data  "Kaggle's site.")
+[Kaggle's website.](https://www.kaggle.com/stackoverflow/so-survey-2017/data  "Kaggle's site.")
 The two files used are the public survey results and the schema which gives detail about the questions asked. 
