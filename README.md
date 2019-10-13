@@ -2,7 +2,7 @@
 A brief look at stack overflow data to answer the question: Are remote workers more satisfied at their job?
 
 ### Installation
-All files can be run with the standard Anaconda distribution and python 3. The JobSatisfactionML.ipynb requres importing the cleaning_function.py for preprocessing.
+All files can be run with the standard Anaconda distribution and python 3. The JobSatisfactionRegression.ipynb requres importing the cleaning_function.py for preprocessing.
 
 ### Motivation
 For this project I wanted to see what could be said for remote working and the effects it has on job satisfaction in the United States. To do this I used a publicly available datasource on kaggle: the 2017 StackOverflow Developers survey.
@@ -15,7 +15,7 @@ For this project I wanted to see what could be said for remote working and the e
 
 ### File Descriptions
 
-There are 4 IPython notebooks. The JobSatisfactionML notebook takes the longest at run-time. It also requires importing the cleaning_function.py file for preprocessing. The Preprocessing notebook is just a step by step analysis of how I worked through creating the final cleaning_function.py file and won't provide any analysis of data. 
+There are 4 IPython notebooks. The JobSatisfactionRegression notebook takes the longest at run-time. It also requires importing the cleaning_function.py file for preprocessing. The Preprocessing notebook is just a step by step analysis of how I worked through creating the final cleaning_function.py file and won't provide any analysis of data. 
 
 ### Results
 
