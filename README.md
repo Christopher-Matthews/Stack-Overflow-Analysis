@@ -19,7 +19,8 @@ There are 4 IPython notebooks. The JobSatisfactionRegression notebook takes the 
 
 ### Results
 
-The high level results can be found in a blog post I wrote at (insert link when ready).
+The high level results can be found in a blog post I wrote at: 
+https://medium.com/@matthews.ind/coffee-shops-are-the-new-cubicle-b8331e525ed0
 
 ### Acknowledgments
 
